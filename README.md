@@ -1,5 +1,6 @@
+![Head](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200711122552/Python-Programming-Language.png)
 ![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-<h1 align="center">Hi 👋, I'm Vivek Kadam</h1>
+<h1 align="center"h1 style="border:2px solid DodgerBlue;">Hi 👋, I'm Vivek Kadam</h1>
 <h3 align="center">A passionate AI\ML Engineer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viv143n&label=Profile%20views&color=0e75b6&style=flat" alt="viv143n" /> </p>
