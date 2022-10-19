@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/d3vil_shadow" target="blank"><img src="https://img.shields.io/twitter/follow/d3vil_shadow?logo=twitter&style=for-the-badge" alt="d3vil_shadow" /></a> </p>
 
-- 🔭 I’m currently working on **Ridesharing Algorithms**
+- 🔭 I’m currently working on **Bike Demand Prediction**
 
 - 🌱 I’m currently learning **AI/ML**
 
