@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/d3vil_shadow" target="blank"><img src="https://img.shields.io/twitter/follow/d3vil_shadow?logo=twitter&style=for-the-badge" alt="d3vil_shadow" /></a> </p>
 
-- 🔭 I’m currently working on **Recommendation Systems**
+- 🔭 I’m currently working on **Customer Segmentation in E-Commerce**
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Adobe Illustator**
+- 💬 Ask me about **Python,ML,AI**
 
 - 📫 How to reach me **viv143n@gmail.com**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/d3vil_shadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d3vil_shadow" height="30" width="40" /></a>
-<a href="https://instagram.com/vivek_kadam_3656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_kadam_3656" height="30" width="40" /></a>
+<a href="https://instagram.com/vivek_kadam_official_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_kadam_3656" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
